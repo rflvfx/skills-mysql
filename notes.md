@@ -150,3 +150,4 @@
 - 2026-03-11: Fix example
 - 2026-04-18: Refine text
 - 2026-08-24: Improve docs
+- 2026-12-03: Update notes
