@@ -508,3 +508,4 @@
 - 2026-03-11: Clarify section
 - 2026-09-27: Add note
 - 2026-12-06: Review content
+- 2026-12-25: Add remark
