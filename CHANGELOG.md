@@ -47,3 +47,4 @@
 - 2015-11-10: Expand section
 - 2015-12-28: Adjust content
 - 2015-03-18: Expand section
+- 2015-01-17: Small fix
