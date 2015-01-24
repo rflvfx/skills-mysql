@@ -68,3 +68,4 @@
 - 2015-06-08: Minor update
 - 2015-10-21: Small fix
 - 2015-04-08: Update notes
+- 2015-01-24: Clarify section
