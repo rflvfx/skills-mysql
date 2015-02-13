@@ -10,3 +10,4 @@
 - 2015-04-05: Improve docs
 - 2015-01-08: Expand section
 - 2015-12-05: Review content
+- 2015-02-13: Fix example
