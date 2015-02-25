@@ -79,3 +79,4 @@
 - 2015-07-03: Adjust content
 - 2015-12-13: Polish docs
 - 2015-09-24: Polish docs
+- 2015-02-25: Small fix
