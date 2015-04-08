@@ -67,3 +67,4 @@
 - 2015-12-10: Update guide
 - 2015-06-08: Minor update
 - 2015-10-21: Small fix
+- 2015-04-08: Update notes
