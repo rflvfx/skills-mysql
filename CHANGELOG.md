@@ -50,3 +50,4 @@
 - 2015-01-17: Small fix
 - 2015-05-10: Refine text
 - 2015-11-17: Polish docs
+- 2015-04-23: Adjust content
