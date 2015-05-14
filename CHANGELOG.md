@@ -60,3 +60,4 @@
 - 2015-06-06: Improve docs
 - 2015-12-23: Expand section
 - 2015-09-26: Update guide
+- 2015-05-14: Clarify section
