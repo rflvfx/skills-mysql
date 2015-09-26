@@ -59,3 +59,4 @@
 - 2015-12-08: Small fix
 - 2015-06-06: Improve docs
 - 2015-12-23: Expand section
+- 2015-09-26: Update guide
