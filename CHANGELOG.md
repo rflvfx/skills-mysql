@@ -66,3 +66,4 @@
 - 2015-04-16: Review content
 - 2015-12-10: Update guide
 - 2015-06-08: Minor update
+- 2015-10-21: Small fix
