@@ -71,3 +71,4 @@
 - 2015-01-24: Clarify section
 - 2015-08-21: Refine text
 - 2015-11-22: Improve docs
+- 2015-11-01: Update guide
