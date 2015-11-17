@@ -49,3 +49,4 @@
 - 2015-03-18: Expand section
 - 2015-01-17: Small fix
 - 2015-05-10: Refine text
+- 2015-11-17: Polish docs
