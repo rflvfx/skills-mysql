@@ -56,3 +56,4 @@
 - 2015-02-19: Improve docs
 - 2015-07-28: Polish docs
 - 2015-12-09: Typo fix
+- 2015-12-08: Small fix
