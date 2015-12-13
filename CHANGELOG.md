@@ -77,3 +77,4 @@
 - 2015-02-07: Clarify section
 - 2015-01-20: Add detail
 - 2015-07-03: Adjust content
+- 2015-12-13: Polish docs
