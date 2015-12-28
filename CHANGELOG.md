@@ -45,3 +45,4 @@
 - 2015-11-08: Polish docs
 - 2015-12-06: Improve docs
 - 2015-11-10: Expand section
+- 2015-12-28: Adjust content
