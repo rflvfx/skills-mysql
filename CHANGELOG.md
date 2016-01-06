@@ -95,3 +95,4 @@
 - 2016-07-28: Update notes
 - 2016-02-19: Typo fix
 - 2016-10-19: Add detail
+- 2016-01-06: Polish docs
