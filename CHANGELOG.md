@@ -125,3 +125,4 @@
 - 2016-07-11: Minor update
 - 2016-08-25: Add detail
 - 2016-06-18: Clarify section
+- 2016-02-10: Minor update
