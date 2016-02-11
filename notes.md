@@ -20,3 +20,4 @@
 - 2016-02-18: Add detail
 - 2016-05-05: Adjust content
 - 2016-09-07: Improve docs
+- 2016-02-11: Add remark
