@@ -98,3 +98,4 @@
 - 2016-01-06: Polish docs
 - 2016-08-25: Update guide
 - 2016-07-12: Add note
+- 2016-03-24: Refine text
