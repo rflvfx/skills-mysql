@@ -88,3 +88,4 @@
 - 2016-07-05: Minor update
 - 2016-10-23: Improve docs
 - 2016-02-21: Update notes
+- 2016-04-14: Add detail
