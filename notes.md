@@ -18,3 +18,4 @@
 - 2016-10-11: Refine text
 - 2016-01-03: Update notes
 - 2016-02-18: Add detail
+- 2016-05-05: Adjust content
