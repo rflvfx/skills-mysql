@@ -122,3 +122,4 @@
 - 2016-04-22: Typo fix
 - 2016-11-21: Add detail
 - 2016-05-01: Expand section
+- 2016-07-11: Minor update
