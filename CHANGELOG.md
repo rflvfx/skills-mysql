@@ -92,3 +92,4 @@
 - 2016-12-28: Review content
 - 2016-07-04: Refine text
 - 2016-08-25: Refine text
+- 2016-07-28: Update notes
