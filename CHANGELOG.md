@@ -102,3 +102,4 @@
 - 2016-09-28: Typo fix
 - 2016-04-09: Polish docs
 - 2016-12-28: Add note
+- 2016-08-04: Typo fix
