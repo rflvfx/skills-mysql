@@ -13,3 +13,4 @@
 - 2015-02-13: Fix example
 - 2015-02-21: Update notes
 - 2015-08-05: Refine text
+- 2016-08-24: Small fix
