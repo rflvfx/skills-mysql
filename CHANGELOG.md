@@ -123,3 +123,4 @@
 - 2016-11-21: Add detail
 - 2016-05-01: Expand section
 - 2016-07-11: Minor update
+- 2016-08-25: Add detail
