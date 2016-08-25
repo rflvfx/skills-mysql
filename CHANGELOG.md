@@ -96,3 +96,4 @@
 - 2016-02-19: Typo fix
 - 2016-10-19: Add detail
 - 2016-01-06: Polish docs
+- 2016-08-25: Update guide
