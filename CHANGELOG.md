@@ -99,3 +99,4 @@
 - 2016-08-25: Update guide
 - 2016-07-12: Add note
 - 2016-03-24: Refine text
+- 2016-09-28: Typo fix
