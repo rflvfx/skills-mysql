@@ -84,3 +84,4 @@
 - 2015-04-04: Polish docs
 - 2015-04-18: Small fix
 - 2015-10-22: Small fix
+- 2016-10-10: Typo fix
