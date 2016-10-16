@@ -117,3 +117,4 @@
 - 2016-09-06: Improve docs
 - 2016-10-04: Review content
 - 2016-07-05: Update notes
+- 2016-10-16: Add note
