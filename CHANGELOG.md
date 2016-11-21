@@ -120,3 +120,4 @@
 - 2016-10-16: Add note
 - 2016-05-07: Add remark
 - 2016-04-22: Typo fix
+- 2016-11-21: Add detail
