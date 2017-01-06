@@ -26,3 +26,4 @@
 - 2016-02-06: Update notes
 - 2017-01-25: Fix example
 - 2017-05-13: Review content
+- 2017-01-06: Update guide
