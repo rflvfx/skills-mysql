@@ -134,3 +134,4 @@
 - 2017-06-24: Minor update
 - 2017-12-13: Minor update
 - 2017-03-18: Polish docs
+- 2017-03-11: Refine text
