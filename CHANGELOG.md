@@ -133,3 +133,4 @@
 - 2017-10-07: Add remark
 - 2017-06-24: Minor update
 - 2017-12-13: Minor update
+- 2017-03-18: Polish docs
