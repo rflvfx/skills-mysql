@@ -163,3 +163,4 @@
 - 2017-07-16: Add remark
 - 2017-08-24: Update notes
 - 2017-02-18: Polish docs
+- 2017-04-02: Update guide
