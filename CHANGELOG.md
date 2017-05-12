@@ -5,3 +5,4 @@
 - 2015-07-16: Add slow log analysis examples
 - 2016-07-10: Review backup routines section
 - 2016-10-10: Add foreign key audit examples
+- 2017-05-12: Add join buffering notes
