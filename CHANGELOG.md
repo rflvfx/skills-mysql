@@ -128,3 +128,4 @@
 - 2016-02-10: Minor update
 - 2016-07-20: Update notes
 - 2017-05-10: Add detail
+- 2017-06-22: Add remark
