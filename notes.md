@@ -33,3 +33,4 @@
 - 2017-08-10: Refine text
 - 2017-08-07: Update guide
 - 2017-09-08: Update guide
+- 2017-07-03: Update guide
