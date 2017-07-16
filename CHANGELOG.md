@@ -160,3 +160,4 @@
 - 2017-12-04: Clarify section
 - 2017-05-06: Update guide
 - 2017-06-26: Review content
+- 2017-07-16: Add remark
