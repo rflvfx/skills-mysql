@@ -31,3 +31,4 @@
 - 2017-08-07: Add detail
 - 2017-01-03: Update guide
 - 2017-08-10: Refine text
+- 2017-08-07: Update guide
