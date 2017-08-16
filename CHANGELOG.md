@@ -165,3 +165,4 @@
 - 2017-02-18: Polish docs
 - 2017-04-02: Update guide
 - 2017-07-23: Update guide
+- 2017-08-16: Add detail
