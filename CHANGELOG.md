@@ -155,3 +155,4 @@
 - 2017-04-01: Review content
 - 2017-12-28: Minor update
 - 2017-05-10: Refine text
+- 2017-08-23: Small fix
