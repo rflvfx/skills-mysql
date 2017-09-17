@@ -129,3 +129,4 @@
 - 2016-07-20: Update notes
 - 2017-05-10: Add detail
 - 2017-06-22: Add remark
+- 2017-09-17: Update guide
