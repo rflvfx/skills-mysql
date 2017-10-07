@@ -130,3 +130,4 @@
 - 2017-05-10: Add detail
 - 2017-06-22: Add remark
 - 2017-09-17: Update guide
+- 2017-10-07: Add remark
