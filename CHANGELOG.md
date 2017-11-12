@@ -144,3 +144,4 @@
 - 2017-01-25: Add note
 - 2017-11-22: Update guide
 - 2017-09-11: Minor update
+- 2017-11-12: Add detail
