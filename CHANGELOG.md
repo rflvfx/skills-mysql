@@ -132,3 +132,4 @@
 - 2017-09-17: Update guide
 - 2017-10-07: Add remark
 - 2017-06-24: Minor update
+- 2017-12-13: Minor update
