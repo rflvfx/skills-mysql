@@ -136,3 +136,4 @@
 - 2017-03-18: Polish docs
 - 2017-03-11: Refine text
 - 2017-08-07: Add note
+- 2017-12-21: Review content
