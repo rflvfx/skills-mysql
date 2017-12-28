@@ -153,3 +153,4 @@
 - 2017-05-12: Adjust content
 - 2017-03-28: Add note
 - 2017-04-01: Review content
+- 2017-12-28: Minor update
