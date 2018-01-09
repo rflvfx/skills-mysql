@@ -197,3 +197,4 @@
 - 2018-10-24: Add detail
 - 2018-04-09: Add note
 - 2018-07-22: Add remark
+- 2018-01-09: Improve docs
