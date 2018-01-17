@@ -191,3 +191,4 @@
 - 2018-01-19: Expand section
 - 2018-07-15: Fix example
 - 2018-06-01: Clarify section
+- 2018-01-17: Update guide
