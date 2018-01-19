@@ -188,3 +188,4 @@
 - 2018-02-08: Add detail
 - 2018-08-20: Update guide
 - 2018-09-17: Review content
+- 2018-01-19: Expand section
