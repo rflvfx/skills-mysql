@@ -182,3 +182,4 @@
 - 2018-04-07: Improve docs
 - 2018-01-18: Polish docs
 - 2018-08-07: Add detail
+- 2018-02-04: Clarify section
