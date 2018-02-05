@@ -170,3 +170,4 @@
 - 2018-01-12: Polish docs
 - 2018-02-10: Small fix
 - 2018-02-28: Add note
+- 2018-02-05: Small fix
