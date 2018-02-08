@@ -46,3 +46,4 @@
 - 2018-02-15: Review content
 - 2018-08-15: Refine text
 - 2018-10-19: Adjust content
+- 2018-02-08: Add note
