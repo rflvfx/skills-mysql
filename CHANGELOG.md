@@ -185,3 +185,4 @@
 - 2018-02-04: Clarify section
 - 2018-06-13: Update notes
 - 2018-08-17: Polish docs
+- 2018-02-08: Add detail
