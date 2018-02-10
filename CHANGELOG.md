@@ -168,3 +168,4 @@
 - 2017-08-16: Add detail
 - 2018-12-07: Small fix
 - 2018-01-12: Polish docs
+- 2018-02-10: Small fix
