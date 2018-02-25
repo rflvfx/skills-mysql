@@ -50,3 +50,4 @@
 - 2018-03-08: Add remark
 - 2018-02-21: Review content
 - 2018-06-03: Small fix
+- 2018-02-25: Refine text
