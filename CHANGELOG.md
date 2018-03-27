@@ -175,3 +175,4 @@
 - 2018-05-25: Small fix
 - 2018-05-06: Add note
 - 2018-07-01: Add detail
+- 2018-03-27: Refine text
