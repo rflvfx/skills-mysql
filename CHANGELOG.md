@@ -203,3 +203,4 @@
 - 2018-12-14: Small fix
 - 2018-01-01: Small fix
 - 2018-02-10: Refine text
+- 2018-03-27: Clarify section
