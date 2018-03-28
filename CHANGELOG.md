@@ -7,3 +7,4 @@
 - 2016-10-10: Add foreign key audit examples
 - 2017-05-12: Add join buffering notes
 - 2018-01-18: Add row archiving examples
+- 2018-03-28: Add charset collation examples
