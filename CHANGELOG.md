@@ -179,3 +179,4 @@
 - 2018-07-22: Add note
 - 2018-10-21: Typo fix
 - 2018-04-05: Small fix
+- 2018-04-07: Improve docs
