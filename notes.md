@@ -39,3 +39,4 @@
 - 2017-11-23: Adjust content
 - 2018-06-07: Clarify section
 - 2018-09-11: Typo fix
+- 2018-05-15: Add detail
