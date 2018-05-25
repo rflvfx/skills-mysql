@@ -172,3 +172,4 @@
 - 2018-02-28: Add note
 - 2018-02-05: Small fix
 - 2018-09-28: Small fix
+- 2018-05-25: Small fix
