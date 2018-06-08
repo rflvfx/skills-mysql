@@ -42,3 +42,4 @@
 - 2018-05-15: Add detail
 - 2018-04-21: Clarify section
 - 2018-08-07: Add detail
+- 2018-06-08: Minor update
