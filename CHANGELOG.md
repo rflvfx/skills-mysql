@@ -199,3 +199,4 @@
 - 2018-07-22: Add remark
 - 2018-01-09: Improve docs
 - 2018-10-27: Update guide
+- 2018-06-19: Adjust content
