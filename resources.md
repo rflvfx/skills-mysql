@@ -1,1 +1,2 @@
 - 2017-12-25: Add usage example (skills-mysql)
+- 2018-07-10: Add resource link (skills-mysql)
