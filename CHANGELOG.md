@@ -181,3 +181,4 @@
 - 2018-04-05: Small fix
 - 2018-04-07: Improve docs
 - 2018-01-18: Polish docs
+- 2018-08-07: Add detail
