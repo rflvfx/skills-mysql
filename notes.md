@@ -44,3 +44,4 @@
 - 2018-08-07: Add detail
 - 2018-06-08: Minor update
 - 2018-02-15: Review content
+- 2018-08-15: Refine text
