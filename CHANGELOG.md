@@ -186,3 +186,4 @@
 - 2018-06-13: Update notes
 - 2018-08-17: Polish docs
 - 2018-02-08: Add detail
+- 2018-08-20: Update guide
