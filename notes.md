@@ -38,3 +38,4 @@
 - 2017-06-25: Clarify section
 - 2017-11-23: Adjust content
 - 2018-06-07: Clarify section
+- 2018-09-11: Typo fix
