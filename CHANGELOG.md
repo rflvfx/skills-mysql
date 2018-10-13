@@ -8,3 +8,4 @@
 - 2017-05-12: Add join buffering notes
 - 2018-01-18: Add row archiving examples
 - 2018-03-28: Add charset collation examples
+- 2018-10-13: Add transaction isolation examples
