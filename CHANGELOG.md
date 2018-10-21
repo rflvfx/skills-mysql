@@ -177,3 +177,4 @@
 - 2018-07-01: Add detail
 - 2018-03-27: Refine text
 - 2018-07-22: Add note
+- 2018-10-21: Typo fix
