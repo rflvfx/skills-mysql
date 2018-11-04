@@ -9,3 +9,4 @@
 - 2018-01-18: Add row archiving examples
 - 2018-03-28: Add charset collation examples
 - 2018-10-13: Add transaction isolation examples
+- 2018-11-04: Refine innodb buffer pool guide
