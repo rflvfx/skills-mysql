@@ -166,3 +166,4 @@
 - 2017-04-02: Update guide
 - 2017-07-23: Update guide
 - 2017-08-16: Add detail
+- 2018-12-07: Small fix
