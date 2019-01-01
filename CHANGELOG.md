@@ -233,3 +233,4 @@
 - 2019-04-04: Update notes
 - 2019-08-08: Clarify section
 - 2019-04-28: Improve docs
+- 2019-01-01: Improve docs
