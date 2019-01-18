@@ -215,3 +215,4 @@
 - 2019-02-24: Update guide
 - 2019-09-09: Minor update
 - 2019-07-11: Review content
+- 2019-01-18: Fix example
