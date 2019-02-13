@@ -228,3 +228,4 @@
 - 2019-12-09: Update notes
 - 2019-11-22: Typo fix
 - 2019-01-20: Refine text
+- 2019-02-13: Add note
