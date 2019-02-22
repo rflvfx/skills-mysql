@@ -235,3 +235,4 @@
 - 2019-04-28: Improve docs
 - 2019-01-01: Improve docs
 - 2019-06-04: Add note
+- 2019-02-22: Small fix
