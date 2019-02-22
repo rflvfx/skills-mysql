@@ -58,3 +58,4 @@
 - 2019-06-15: Add note
 - 2019-03-17: Clarify section
 - 2019-11-09: Add detail
+- 2019-02-22: Add remark
