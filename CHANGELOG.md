@@ -209,3 +209,4 @@
 - 2019-01-02: Update guide
 - 2019-12-04: Review content
 - 2019-11-14: Fix example
+- 2019-02-23: Add note
