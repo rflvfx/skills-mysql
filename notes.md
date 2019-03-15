@@ -59,3 +59,4 @@
 - 2019-03-17: Clarify section
 - 2019-11-09: Add detail
 - 2019-02-22: Add remark
+- 2019-03-15: Minor update
