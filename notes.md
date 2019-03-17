@@ -56,3 +56,4 @@
 - 2019-08-22: Add remark
 - 2019-06-22: Refine text
 - 2019-06-15: Add note
+- 2019-03-17: Clarify section
