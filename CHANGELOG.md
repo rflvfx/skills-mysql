@@ -11,3 +11,4 @@
 - 2018-10-13: Add transaction isolation examples
 - 2018-11-04: Refine innodb buffer pool guide
 - 2019-01-10: Refine query caching guide
+- 2019-04-01: Update slow log analysis reference
