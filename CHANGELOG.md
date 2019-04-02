@@ -12,3 +12,4 @@
 - 2018-11-04: Refine innodb buffer pool guide
 - 2019-01-10: Refine query caching guide
 - 2019-04-01: Update slow log analysis reference
+- 2019-04-02: Refine utf8mb4 migration guide
