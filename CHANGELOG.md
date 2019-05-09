@@ -224,3 +224,4 @@
 - 2019-04-26: Review content
 - 2019-06-04: Clarify section
 - 2019-02-10: Clarify section
+- 2019-05-09: Update guide
