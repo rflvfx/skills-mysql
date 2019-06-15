@@ -55,3 +55,4 @@
 - 2018-04-01: Typo fix
 - 2019-08-22: Add remark
 - 2019-06-22: Refine text
+- 2019-06-15: Add note
