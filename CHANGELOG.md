@@ -239,3 +239,4 @@
 - 2019-05-24: Minor update
 - 2019-12-16: Add note
 - 2019-10-14: Polish docs
+- 2019-06-21: Minor update
