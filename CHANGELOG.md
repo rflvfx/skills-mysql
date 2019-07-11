@@ -211,3 +211,4 @@
 - 2019-11-14: Fix example
 - 2019-02-23: Add note
 - 2019-08-10: Typo fix
+- 2019-07-11: Expand section
