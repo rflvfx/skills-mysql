@@ -62,3 +62,4 @@
 - 2019-03-15: Minor update
 - 2019-04-21: Add remark
 - 2019-12-27: Expand section
+- 2019-07-24: Improve docs
