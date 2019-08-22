@@ -53,3 +53,4 @@
 - 2018-02-25: Refine text
 - 2018-06-08: Small fix
 - 2018-04-01: Typo fix
+- 2019-08-22: Add remark
