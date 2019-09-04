@@ -64,3 +64,4 @@
 - 2019-12-27: Expand section
 - 2019-07-24: Improve docs
 - 2019-02-11: Polish docs
+- 2019-09-04: Clarify section
