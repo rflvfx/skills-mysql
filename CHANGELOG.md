@@ -205,3 +205,4 @@
 - 2018-02-10: Refine text
 - 2018-03-27: Clarify section
 - 2018-05-26: Small fix
+- 2019-09-11: Refine text
