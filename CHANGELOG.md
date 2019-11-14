@@ -208,3 +208,4 @@
 - 2019-09-11: Refine text
 - 2019-01-02: Update guide
 - 2019-12-04: Review content
+- 2019-11-14: Fix example
