@@ -207,3 +207,4 @@
 - 2018-05-26: Small fix
 - 2019-09-11: Refine text
 - 2019-01-02: Update guide
+- 2019-12-04: Review content
