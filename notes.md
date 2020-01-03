@@ -68,3 +68,4 @@
 - 2019-04-27: Adjust content
 - 2019-08-27: Minor update
 - 2020-09-01: Improve docs
+- 2020-01-03: Add remark
