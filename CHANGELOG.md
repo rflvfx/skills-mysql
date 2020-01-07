@@ -269,3 +269,4 @@
 - 2020-08-21: Expand section
 - 2020-06-10: Minor update
 - 2020-10-08: Add remark
+- 2020-01-07: Refine text
