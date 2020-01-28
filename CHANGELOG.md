@@ -253,3 +253,4 @@
 - 2020-11-12: Typo fix
 - 2020-04-08: Fix example
 - 2020-10-11: Refine text
+- 2020-01-28: Typo fix
