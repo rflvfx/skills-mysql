@@ -289,3 +289,4 @@
 - 2020-05-20: Fix example
 - 2020-09-15: Add detail
 - 2020-09-02: Add remark
+- 2020-02-19: Update notes
