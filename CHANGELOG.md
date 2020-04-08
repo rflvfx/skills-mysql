@@ -251,3 +251,4 @@
 - 2020-01-11: Add detail
 - 2020-09-06: Expand section
 - 2020-11-12: Typo fix
+- 2020-04-08: Fix example
