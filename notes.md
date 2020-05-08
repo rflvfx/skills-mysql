@@ -70,3 +70,4 @@
 - 2020-09-01: Improve docs
 - 2020-01-03: Add remark
 - 2020-10-03: Refine text
+- 2020-05-08: Add detail
