@@ -260,3 +260,4 @@
 - 2020-02-02: Minor update
 - 2020-09-21: Typo fix
 - 2020-07-10: Update guide
+- 2020-05-28: Small fix
