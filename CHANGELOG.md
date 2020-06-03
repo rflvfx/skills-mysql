@@ -256,3 +256,4 @@
 - 2020-01-28: Typo fix
 - 2020-07-17: Improve docs
 - 2020-07-16: Review content
+- 2020-06-03: Update guide
