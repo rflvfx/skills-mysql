@@ -14,3 +14,4 @@
 - 2019-04-01: Update slow log analysis reference
 - 2019-04-02: Refine utf8mb4 migration guide
 - 2020-03-24: Document backup routines
+- 2020-07-03: Expand explain plans docs
