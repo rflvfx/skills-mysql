@@ -67,3 +67,4 @@
 - 2019-09-04: Clarify section
 - 2019-04-27: Adjust content
 - 2019-08-27: Minor update
+- 2020-09-01: Improve docs
