@@ -290,3 +290,4 @@
 - 2020-09-15: Add detail
 - 2020-09-02: Add remark
 - 2020-02-19: Update notes
+- 2020-09-10: Review content
