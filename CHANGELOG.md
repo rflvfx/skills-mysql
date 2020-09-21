@@ -258,3 +258,4 @@
 - 2020-07-16: Review content
 - 2020-06-03: Update guide
 - 2020-02-02: Minor update
+- 2020-09-21: Typo fix
