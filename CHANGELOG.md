@@ -252,3 +252,4 @@
 - 2020-09-06: Expand section
 - 2020-11-12: Typo fix
 - 2020-04-08: Fix example
+- 2020-10-11: Refine text
