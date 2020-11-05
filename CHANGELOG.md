@@ -279,3 +279,4 @@
 - 2020-06-01: Small fix
 - 2020-08-15: Adjust content
 - 2020-02-04: Update notes
+- 2020-11-05: Update notes
