@@ -280,3 +280,4 @@
 - 2020-08-15: Adjust content
 - 2020-02-04: Update notes
 - 2020-11-05: Update notes
+- 2020-12-09: Typo fix
