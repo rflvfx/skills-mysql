@@ -78,3 +78,4 @@
 - 2020-04-26: Refine text
 - 2021-11-18: Update notes
 - 2021-07-14: Update guide
+- 2021-01-02: Improve docs
