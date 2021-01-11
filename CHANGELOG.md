@@ -321,3 +321,4 @@
 - 2021-01-24: Polish docs
 - 2021-08-23: Polish docs
 - 2021-09-07: Adjust content
+- 2021-01-11: Add note
