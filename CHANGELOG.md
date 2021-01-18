@@ -308,3 +308,4 @@
 - 2021-02-16: Add note
 - 2021-03-18: Add detail
 - 2021-04-17: Update guide
+- 2021-01-18: Expand section
