@@ -16,3 +16,4 @@
 - 2020-03-24: Document backup routines
 - 2020-07-03: Expand explain plans docs
 - 2021-01-04: Document covering indexes
+- 2021-02-23: Review join buffering section
