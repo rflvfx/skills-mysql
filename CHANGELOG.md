@@ -306,3 +306,4 @@
 - 2021-06-28: Refine text
 - 2021-10-19: Review content
 - 2021-02-16: Add note
+- 2021-03-18: Add detail
