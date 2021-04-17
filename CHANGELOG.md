@@ -307,3 +307,4 @@
 - 2021-10-19: Review content
 - 2021-02-16: Add note
 - 2021-03-18: Add detail
+- 2021-04-17: Update guide
