@@ -87,3 +87,4 @@
 - 2021-07-08: Fix example
 - 2021-07-24: Add note
 - 2021-07-10: Improve docs
+- 2021-05-20: Expand section
