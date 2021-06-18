@@ -79,3 +79,4 @@
 - 2021-11-18: Update notes
 - 2021-07-14: Update guide
 - 2021-01-02: Improve docs
+- 2021-06-18: Add remark
