@@ -302,3 +302,4 @@
 - 2021-05-08: Adjust content
 - 2021-12-21: Expand section
 - 2021-11-10: Update notes
+- 2021-06-19: Refine text
