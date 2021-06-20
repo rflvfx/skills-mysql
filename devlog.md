@@ -1,3 +1,4 @@
 - 2015-01-02 — Refine exercises
 - 2016-03-08 — Review material
 - 2017-07-14 — Update notes
+- 2021-06-20 — Fix examples
