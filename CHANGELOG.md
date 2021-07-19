@@ -295,3 +295,4 @@
 - 2021-11-11: Add note
 - 2021-12-26: Update notes
 - 2021-02-25: Minor update
+- 2021-07-19: Add detail
