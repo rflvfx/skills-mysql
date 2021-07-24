@@ -85,3 +85,4 @@
 - 2021-08-16: Fix example
 - 2021-09-03: Expand section
 - 2021-07-08: Fix example
+- 2021-07-24: Add note
