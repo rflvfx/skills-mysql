@@ -319,3 +319,4 @@
 - 2021-10-06: Fix example
 - 2021-02-25: Small fix
 - 2021-01-24: Polish docs
+- 2021-08-23: Polish docs
