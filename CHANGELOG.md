@@ -314,3 +314,4 @@
 - 2021-11-19: Fix example
 - 2021-04-16: Add detail
 - 2021-09-19: Clarify section
+- 2021-08-28: Adjust content
