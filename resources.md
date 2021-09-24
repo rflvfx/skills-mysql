@@ -1,3 +1,4 @@
 - 2017-12-25: Add usage example (skills-mysql)
 - 2018-07-10: Add resource link (skills-mysql)
 - 2019-09-22: Add code snippet (skills-mysql)
+- 2021-09-24: Fix typo in docs (skills-mysql)
