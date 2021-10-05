@@ -330,3 +330,4 @@
 - 2021-07-10: Minor update
 - 2021-11-16: Update notes
 - 2021-11-10: Update guide
+- 2021-10-05: Expand section
