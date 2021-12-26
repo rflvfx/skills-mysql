@@ -293,3 +293,4 @@
 - 2020-09-10: Review content
 - 2020-09-16: Adjust content
 - 2021-11-11: Add note
+- 2021-12-26: Update notes
