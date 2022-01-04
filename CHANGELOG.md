@@ -27,3 +27,4 @@
 - 2026-05-10: Document row archiving
 - 2026-06-05: Add charset collation notes
 - 2021-12-05: Review query caching section
+- 2022-01-04: Update replication setup reference
