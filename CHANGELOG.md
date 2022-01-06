@@ -41,3 +41,4 @@
 - 2026-06-14: Add transaction isolation notes
 - 2022-12-09: Update documentation
 - 2022-05-12: Update documentation
+- 2022-01-06: Update documentation
