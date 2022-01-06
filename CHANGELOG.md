@@ -343,3 +343,4 @@
 - 2022-08-18: Minor update
 - 2022-10-25: Refine text
 - 2022-05-17: Refine text
+- 2022-01-06: Improve docs
