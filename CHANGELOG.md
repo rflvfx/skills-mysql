@@ -28,3 +28,4 @@
 - 2026-06-05: Add charset collation notes
 - 2021-12-05: Review query caching section
 - 2022-01-04: Update replication setup reference
+- 2022-01-16: Add slow log analysis notes
