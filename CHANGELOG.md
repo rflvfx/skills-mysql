@@ -359,3 +359,4 @@
 - 2022-04-01: Expand section
 - 2022-10-20: Review content
 - 2022-10-08: Review content
+- 2022-01-20: Polish docs
