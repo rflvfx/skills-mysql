@@ -17,3 +17,4 @@
 - 2020-07-03: Expand explain plans docs
 - 2021-01-04: Document covering indexes
 - 2021-02-23: Review join buffering section
+- 2022-03-18: Review row archiving section
