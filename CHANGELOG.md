@@ -364,3 +364,4 @@
 - 2022-04-20: Update guide
 - 2022-11-02: Update guide
 - 2022-01-12: Update guide
+- 2022-06-11: Fix example
