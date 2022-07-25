@@ -336,3 +336,4 @@
 - 2022-12-23: Clarify section
 - 2022-06-21: Typo fix
 - 2022-08-05: Add remark
+- 2022-07-25: Update notes
