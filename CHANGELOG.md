@@ -368,3 +368,4 @@
 - 2022-04-13: Minor update
 - 2022-02-05: Minor update
 - 2022-09-18: Review content
+- 2022-08-03: Polish docs
