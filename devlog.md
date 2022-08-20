@@ -2,3 +2,4 @@
 - 2016-03-08 — Review material
 - 2017-07-14 — Update notes
 - 2021-06-20 — Fix examples
+- 2022-08-20 — Refine exercises
