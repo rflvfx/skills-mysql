@@ -348,3 +348,4 @@
 - 2022-10-24: Expand section
 - 2022-11-17: Small fix
 - 2022-07-24: Expand section
+- 2022-09-06: Improve docs
