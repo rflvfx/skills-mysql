@@ -341,3 +341,4 @@
 - 2022-11-18: Polish docs
 - 2022-04-23: Typo fix
 - 2022-08-18: Minor update
+- 2022-10-25: Refine text
