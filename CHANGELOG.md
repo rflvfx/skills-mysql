@@ -362,3 +362,4 @@
 - 2022-01-20: Polish docs
 - 2022-01-17: Fix example
 - 2022-04-20: Update guide
+- 2022-11-02: Update guide
