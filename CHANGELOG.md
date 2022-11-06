@@ -351,3 +351,4 @@
 - 2022-09-06: Improve docs
 - 2022-04-21: Review content
 - 2022-12-12: Improve docs
+- 2022-11-06: Minor update
