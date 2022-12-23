@@ -333,3 +333,4 @@
 - 2021-10-05: Expand section
 - 2022-08-25: Improve docs
 - 2022-03-19: Refine text
+- 2022-12-23: Clarify section
