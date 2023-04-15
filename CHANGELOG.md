@@ -31,3 +31,4 @@
 - 2022-01-16: Add slow log analysis notes
 - 2022-11-07: Document utf8mb4 migration
 - 2023-02-09: Refine backup routines guide
+- 2023-04-15: Improve user privileges coverage
