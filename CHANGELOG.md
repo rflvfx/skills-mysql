@@ -386,3 +386,4 @@
 - 2023-05-18: Update notes
 - 2023-06-03: Polish docs
 - 2023-11-08: Fix example
+- 2023-05-08: Refine text
