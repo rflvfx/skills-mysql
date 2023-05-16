@@ -371,3 +371,4 @@
 - 2022-08-03: Polish docs
 - 2023-04-24: Polish docs
 - 2023-08-04: Minor update
+- 2023-05-16: Improve docs
