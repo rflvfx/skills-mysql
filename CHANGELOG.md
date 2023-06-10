@@ -397,3 +397,4 @@
 - 2023-01-27: Review content
 - 2023-06-16: Typo fix
 - 2023-08-23: Small fix
+- 2023-06-10: Add detail
