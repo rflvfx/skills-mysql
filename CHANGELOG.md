@@ -388,3 +388,4 @@
 - 2023-11-08: Fix example
 - 2023-05-08: Refine text
 - 2023-02-10: Improve docs
+- 2023-06-11: Update notes
