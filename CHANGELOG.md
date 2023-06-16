@@ -395,3 +395,4 @@
 - 2023-06-13: Clarify section
 - 2023-09-21: Improve docs
 - 2023-01-27: Review content
+- 2023-06-16: Typo fix
