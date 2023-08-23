@@ -396,3 +396,4 @@
 - 2023-09-21: Improve docs
 - 2023-01-27: Review content
 - 2023-06-16: Typo fix
+- 2023-08-23: Small fix
