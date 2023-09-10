@@ -107,3 +107,4 @@
 - 2023-05-25: Add remark
 - 2023-12-15: Typo fix
 - 2023-11-11: Add detail
+- 2023-09-10: Clarify section
