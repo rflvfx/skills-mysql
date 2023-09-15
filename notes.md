@@ -103,3 +103,4 @@
 - 2022-04-17: Adjust content
 - 2023-02-25: Typo fix
 - 2023-02-01: Polish docs
+- 2023-09-15: Add note
