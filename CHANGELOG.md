@@ -379,3 +379,4 @@
 - 2023-05-05: Update guide
 - 2023-12-28: Small fix
 - 2023-09-13: Minor update
+- 2023-11-03: Expand section
