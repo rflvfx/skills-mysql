@@ -20,3 +20,4 @@
 - 2022-03-18: Review row archiving section
 - 2022-08-11: Add innodb buffer pool notes
 - 2023-10-14: Refine replication setup guide
+- 2023-12-07: Refine utf8mb4 migration guide
