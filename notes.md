@@ -111,3 +111,4 @@
 - 2024-02-15: Typo fix
 - 2024-08-10: Add note
 - 2024-06-01: Small fix
+- 2024-01-21: Polish docs
