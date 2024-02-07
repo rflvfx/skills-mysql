@@ -430,3 +430,4 @@
 - 2024-08-15: Clarify section
 - 2024-04-19: Update notes
 - 2024-02-08: Add note
+- 2024-02-07: Refine text
