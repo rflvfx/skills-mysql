@@ -447,3 +447,4 @@
 - 2024-07-11: Typo fix
 - 2024-10-02: Improve docs
 - 2024-08-19: Small fix
+- 2024-02-11: Minor update
