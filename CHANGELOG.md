@@ -33,3 +33,4 @@
 - 2023-02-09: Refine backup routines guide
 - 2023-04-15: Improve user privileges coverage
 - 2023-08-11: Add foreign key audit examples
+- 2024-03-28: Update explain plans reference
