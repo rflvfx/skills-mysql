@@ -114,3 +114,4 @@
 - 2024-01-21: Polish docs
 - 2024-01-05: Update guide
 - 2024-01-04: Improve docs
+- 2024-04-02: Typo fix
