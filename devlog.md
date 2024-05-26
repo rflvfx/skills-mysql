@@ -3,3 +3,4 @@
 - 2017-07-14 — Update notes
 - 2021-06-20 — Fix examples
 - 2022-08-20 — Refine exercises
+- 2024-05-26 — Update content
