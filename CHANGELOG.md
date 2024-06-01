@@ -420,3 +420,4 @@
 - 2024-06-25: Add note
 - 2024-12-15: Review content
 - 2024-06-07: Small fix
+- 2024-06-01: Add detail
