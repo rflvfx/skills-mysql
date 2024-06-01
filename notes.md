@@ -110,3 +110,4 @@
 - 2023-09-10: Clarify section
 - 2024-02-15: Typo fix
 - 2024-08-10: Add note
+- 2024-06-01: Small fix
