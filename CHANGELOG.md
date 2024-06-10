@@ -424,3 +424,4 @@
 - 2024-05-08: Fix example
 - 2024-12-08: Polish docs
 - 2024-09-05: Typo fix
+- 2024-06-10: Small fix
