@@ -444,3 +444,4 @@
 - 2024-12-28: Update notes
 - 2024-05-25: Polish docs
 - 2024-08-18: Add note
+- 2024-07-11: Typo fix
