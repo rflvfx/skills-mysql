@@ -123,3 +123,4 @@
 - 2024-05-13: Review content
 - 2024-01-10: Polish docs
 - 2024-10-21: Minor update
+- 2024-08-08: Expand section
