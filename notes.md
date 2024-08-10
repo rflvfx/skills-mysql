@@ -109,3 +109,4 @@
 - 2023-11-11: Add detail
 - 2023-09-10: Clarify section
 - 2024-02-15: Typo fix
+- 2024-08-10: Add note
