@@ -427,3 +427,4 @@
 - 2024-06-10: Small fix
 - 2024-10-01: Minor update
 - 2024-09-21: Update guide
+- 2024-08-15: Clarify section
