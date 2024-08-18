@@ -443,3 +443,4 @@
 - 2024-11-22: Small fix
 - 2024-12-28: Update notes
 - 2024-05-25: Polish docs
+- 2024-08-18: Add note
