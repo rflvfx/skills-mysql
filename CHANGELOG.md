@@ -446,3 +446,4 @@
 - 2024-08-18: Add note
 - 2024-07-11: Typo fix
 - 2024-10-02: Improve docs
+- 2024-08-19: Small fix
