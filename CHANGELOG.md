@@ -22,3 +22,4 @@
 - 2023-10-14: Refine replication setup guide
 - 2023-12-07: Refine utf8mb4 migration guide
 - 2024-03-20: Expand backup routines docs
+- 2024-09-14: Add user privileges examples
