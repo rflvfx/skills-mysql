@@ -435,3 +435,4 @@
 - 2024-10-20: Adjust content
 - 2024-10-19: Polish docs
 - 2024-08-14: Typo fix
+- 2024-09-28: Update guide
