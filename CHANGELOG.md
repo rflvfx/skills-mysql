@@ -438,3 +438,4 @@
 - 2024-09-28: Update guide
 - 2024-07-22: Review content
 - 2024-11-19: Small fix
+- 2024-11-14: Add note
