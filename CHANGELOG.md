@@ -448,3 +448,4 @@
 - 2024-10-02: Improve docs
 - 2024-08-19: Small fix
 - 2024-02-11: Minor update
+- 2024-11-25: Add note
