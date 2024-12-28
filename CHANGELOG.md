@@ -441,3 +441,4 @@
 - 2024-11-14: Add note
 - 2024-05-26: Adjust content
 - 2024-11-22: Small fix
+- 2024-12-28: Update notes
