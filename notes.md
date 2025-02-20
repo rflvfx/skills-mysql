@@ -135,3 +135,4 @@
 - 2025-02-03: Refine text
 - 2025-05-06: Clarify section
 - 2025-05-24: Add note
+- 2025-02-20: Typo fix
