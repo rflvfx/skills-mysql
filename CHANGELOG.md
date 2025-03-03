@@ -492,3 +492,4 @@
 - 2025-11-01: Clarify section
 - 2025-07-14: Fix example
 - 2025-07-13: Polish docs
+- 2025-03-03: Add note
