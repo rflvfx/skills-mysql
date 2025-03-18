@@ -35,3 +35,4 @@
 - 2023-08-11: Add foreign key audit examples
 - 2024-03-28: Update explain plans reference
 - 2024-05-20: Add join buffering examples
+- 2025-03-18: Update schema versioning reference
