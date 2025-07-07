@@ -485,3 +485,4 @@
 - 2025-10-07: Add detail
 - 2025-12-08: Minor update
 - 2025-01-02: Update guide
+- 2025-07-07: Add note
