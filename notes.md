@@ -129,3 +129,4 @@
 - 2025-08-23: Clarify section
 - 2025-08-02: Clarify section
 - 2025-05-15: Add remark
+- 2025-08-12: Clarify section
