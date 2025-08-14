@@ -477,3 +477,4 @@
 - 2025-10-23: Improve docs
 - 2025-03-19: Small fix
 - 2025-06-08: Minor update
+- 2025-08-14: Small fix
