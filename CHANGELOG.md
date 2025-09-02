@@ -472,3 +472,4 @@
 - 2025-07-17: Add remark
 - 2025-07-21: Minor update
 - 2025-06-02: Improve docs
+- 2025-09-02: Polish docs
