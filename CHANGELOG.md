@@ -482,3 +482,4 @@
 - 2025-03-24: Expand section
 - 2025-05-23: Improve docs
 - 2025-11-13: Update guide
+- 2025-10-07: Add detail
