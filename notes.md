@@ -124,3 +124,4 @@
 - 2024-01-10: Polish docs
 - 2024-10-21: Minor update
 - 2024-08-08: Expand section
+- 2025-10-12: Adjust content
