@@ -37,3 +37,4 @@
 - 2024-05-20: Add join buffering examples
 - 2025-03-18: Update schema versioning reference
 - 2025-05-25: Document deadlock handling
+- 2025-10-17: Add row archiving notes
