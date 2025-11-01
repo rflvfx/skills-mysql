@@ -463,3 +463,4 @@
 - 2025-05-17: Minor update
 - 2025-04-05: Clarify section
 - 2025-11-09: Update guide
+- 2025-11-01: Refine text
