@@ -464,3 +464,4 @@
 - 2025-04-05: Clarify section
 - 2025-11-09: Update guide
 - 2025-11-01: Refine text
+- 2025-11-20: Expand section
