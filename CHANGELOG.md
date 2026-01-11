@@ -502,3 +502,4 @@
 - 2026-12-01: Add detail
 - 2026-06-16: Refine text
 - 2026-07-23: Expand section
+- 2026-01-11: Polish docs
