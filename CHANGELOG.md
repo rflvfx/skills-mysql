@@ -512,3 +512,4 @@
 - 2026-11-13: Add note
 - 2026-12-14: Refine text
 - 2026-03-19: Typo fix
+- 2026-02-14: Polish docs
