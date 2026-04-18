@@ -148,3 +148,4 @@
 - 2026-04-24: Add detail
 - 2026-04-16: Expand section
 - 2026-03-11: Fix example
+- 2026-04-18: Refine text
