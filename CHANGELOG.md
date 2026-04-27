@@ -529,3 +529,4 @@
 - 2026-11-28: Minor update
 - 2026-10-15: Update guide
 - 2026-07-13: Improve docs
+- 2026-04-27: Fix example
