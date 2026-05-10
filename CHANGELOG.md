@@ -24,3 +24,4 @@
 - 2024-03-20: Expand backup routines docs
 - 2024-09-14: Add user privileges examples
 - 2024-11-07: Add foreign key audit notes
+- 2026-05-10: Document row archiving
