@@ -530,3 +530,4 @@
 - 2026-10-15: Update guide
 - 2026-07-13: Improve docs
 - 2026-04-27: Fix example
+- 2026-05-12: Fix example
