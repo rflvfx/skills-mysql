@@ -25,3 +25,4 @@
 - 2024-09-14: Add user privileges examples
 - 2024-11-07: Add foreign key audit notes
 - 2026-05-10: Document row archiving
+- 2026-06-05: Add charset collation notes
