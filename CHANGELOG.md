@@ -38,3 +38,4 @@
 - 2025-03-18: Update schema versioning reference
 - 2025-05-25: Document deadlock handling
 - 2025-10-17: Add row archiving notes
+- 2026-06-14: Add transaction isolation notes
