@@ -495,3 +495,4 @@
 - 2025-03-03: Add note
 - 2026-05-14: Minor update
 - 2026-10-10: Polish docs
+- 2026-06-22: Adjust content
