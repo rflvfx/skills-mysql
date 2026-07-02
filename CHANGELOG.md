@@ -521,3 +521,4 @@
 - 2026-10-03: Review content
 - 2026-05-04: Add remark
 - 2026-02-05: Adjust content
+- 2026-07-02: Add detail
