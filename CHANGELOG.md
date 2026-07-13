@@ -528,3 +528,4 @@
 - 2026-03-25: Small fix
 - 2026-11-28: Minor update
 - 2026-10-15: Update guide
+- 2026-07-13: Improve docs
