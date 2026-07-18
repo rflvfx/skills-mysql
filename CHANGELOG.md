@@ -523,3 +523,4 @@
 - 2026-02-05: Adjust content
 - 2026-07-02: Add detail
 - 2026-09-19: Typo fix
+- 2026-07-18: Update notes
