@@ -503,3 +503,4 @@
 - 2026-06-16: Refine text
 - 2026-07-23: Expand section
 - 2026-01-11: Polish docs
+- 2026-07-21: Small fix
