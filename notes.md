@@ -144,3 +144,4 @@
 - 2026-12-21: Add remark
 - 2026-05-20: Add detail
 - 2026-04-14: Clarify section
+- 2026-09-03: Minor update
