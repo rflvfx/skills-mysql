@@ -514,3 +514,4 @@
 - 2026-03-19: Typo fix
 - 2026-02-14: Polish docs
 - 2026-06-06: Refine text
+- 2026-10-09: Small fix
