@@ -527,3 +527,4 @@
 - 2026-03-27: Review content
 - 2026-03-25: Small fix
 - 2026-11-28: Minor update
+- 2026-10-15: Update guide
