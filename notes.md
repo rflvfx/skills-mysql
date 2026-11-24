@@ -140,3 +140,4 @@
 - 2025-12-18: Review content
 - 2025-07-22: Minor update
 - 2025-11-02: Add detail
+- 2026-11-24: Update notes
