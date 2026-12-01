@@ -499,3 +499,4 @@
 - 2026-09-12: Typo fix
 - 2026-08-08: Typo fix
 - 2026-10-01: Add note
+- 2026-12-01: Add detail
